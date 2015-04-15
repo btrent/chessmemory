@@ -1,0 +1,7 @@
+include data/images/*
+include data/chessmemory.svg
+include data/chessmemory.glade
+include data/chessmemory.desktop
+include data/eco.positions
+include AUTHORS
+include COPYING

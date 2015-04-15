@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Chessmemory
+Comment=A chess suite for GNOME
+Exec=chessmemory %F
+Icon=chessmemory
+Type=Application
+Categories=GNOME;GTK;Game
+MimeType=application/x-chess-pgn
+StartupNotify=True
